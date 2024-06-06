@@ -23,7 +23,7 @@ El proyecto Registro de Archivos es un script en Python diseñado para listar lo
 1. **Clonar el Repositorio:**
 
    ```bash
-   git clone <https://github.com/na1ku/Entrega3>
+   git clone https://github.com/na1ku/Entrega3
    cd Entrega3
    ```
 
